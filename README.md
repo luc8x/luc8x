@@ -1,8 +1,7 @@
 <details>
 <sumary> 🇧🇷 Um pouco sobre mim!! </sumary>
 <p>
-Gosto bastante dessa area da tecnologia, de progrmaçao, mas, nunca trabalhei nela,
-estou em busca de conhecimento na area e estou atrás de novas experiencias.
+Gosto bastante dessa area da tecnologia, de progrmaçao, estou em busca de conhecimento na area e estou atrás de novas experiencias.
 
  - Twitter : https://twitter.com/lucxzzx
  - Instagram : https://www.instagram.com/lucxzzx/
@@ -31,7 +30,7 @@ I'm looking for knowledge in the area and I'm looking for new experiences.
    <a href="">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-   <a href="https://www.instagram.com/lucxzzx/">
+   <a href="">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
    <a href="">
