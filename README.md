@@ -1,6 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Full Stack com experiência em front-end e back-end, especializado em frameworks modernos como Django, Ruby on Rails, Laravel e Next.js. Atuo no desenvolvimento de soluções escaláveis, seguras e de alto desempenho, integrando usabilidade no front-end com robustez no back-end. Busco aplicar minha versatilidade em projetos desafiadores que unam tecnologia e inovação.
-
+Full-stack developer with front-end and back-end experience, specializing in modern frameworks such as Django, Ruby on Rails, Laravel, and Next.js. I develop scalable, secure, and high-performance solutions, integrating front-end usability with back-end robustness. I strive to apply my expertise to challenging projects that combine technology and innovation.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucxzzx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasglemos) 
